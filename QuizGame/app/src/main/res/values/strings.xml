@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz app</string>
+    <string name="timer">00:59</string>
+    <string name="name">Введите имя</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="please_enter_your_name">пожалуйста введите имя</string>
+    <string name="start_button">старт</string>
+    <string name="topic_name">Topic name</string>
+    <string name="image_info">image_info</string>
+    <string name="next">Next</string>
+    <string name="Result">Результат</string>
+    <string name="image">image</string>
+    <string name="Congrats">Поздравляю!</string>
+    <string name="try_again">Попробовать еще раз</string>
+    <string name="add_topic">Add topic</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="javascript">JavaScript</string>
+</resources>

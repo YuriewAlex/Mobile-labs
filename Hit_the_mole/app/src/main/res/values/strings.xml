@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hit_the_mole</string>
+    <string name="nextButton">NEXT</string>
+    <string name="enter_a_name">enter a name</string>
+    <string name="startButton">START</string>
+    <string name="scoreDisplay">Hit the mole!</string>
+    <string name="enter_hits_to_win">enter hits to win</string>
+    <string name="you_lost">You Lost</string>
+    <string name="want_to_try_again">Do you want to try again?</string>
+    <string name="hit_string">Hits: %d</string>
+    <string name="miss_string">Moles escaped: %d</string>
+    <string name="enter_max_misses_to_lose">enter max misses to lose</string>
+    <string name="player_name">Enter your name: %s</string>
+</resources>
